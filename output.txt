@@ -9,5 +9,5 @@ C:\Users\p\source\repos\github_test001\github_test001\bin\Release>dir
 07/02/2024  02:12 PM         1,389,056 Octokit.dll
 07/02/2024  02:12 PM         2,579,500 Octokit.xml
                4 File(s)      3,978,471 bytes
-               2 Dir(s)  29,226,684,416 bytes free
+               2 Dir(s)  29,226,668,032 bytes free
 C:\Users\p\source\repos\github_test001\github_test001\bin\Release>
