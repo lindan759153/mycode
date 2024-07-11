@@ -1,11 +1,3 @@
-C:\Users\p\source\repos\github_test001\github_test001\bin>dir
- Volume in drive C has no label.
- Volume Serial Number is 687F-BF51
- Directory of C:\Users\p\source\repos\github_test001\github_test001\bin
-07/10/2024  07:34 PM    <DIR>          .
-07/10/2024  07:34 PM    <DIR>          ..
-07/10/2024  07:27 PM    <DIR>          Debug
-07/10/2024  07:35 PM    <DIR>          Release
-               0 File(s)              0 bytes
-               4 Dir(s)  29,221,326,848 bytes free
-C:\Users\p\source\repos\github_test001\github_test001\bin>
+C:\Users\p\source\repos\github_test001\github_test001\bin>netstat -ano
+Active Connections
+  Proto  Local Address          Foreign Address        State           PID
