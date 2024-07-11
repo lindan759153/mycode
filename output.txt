@@ -1,2 +1,3 @@
 C:\Users\p\source\repos\github_test001\github_test001\bin\Release>whoami
 desktop-0u3eo22\p
+C:\Users\p\source\repos\github_test001\github_test001\bin\Release>
