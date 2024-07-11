@@ -1,3 +1,13 @@
-C:\Users\p\source\repos\github_test001\github_test001\bin\Release>whoami
-desktop-0u3eo22\p
+C:\Users\p\source\repos\github_test001\github_test001\bin\Release>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 687F-BF51
+ Directory of C:\Users\p\source\repos\github_test001\github_test001\bin\Release
+07/10/2024  07:35 PM    <DIR>          .
+07/10/2024  07:35 PM    <DIR>          ..
+07/10/2024  11:09 PM             9,728 github_test001.exe
+07/10/2024  07:27 PM               187 github_test001.exe.config
+07/02/2024  02:12 PM         1,389,056 Octokit.dll
+07/02/2024  02:12 PM         2,579,500 Octokit.xml
+               4 File(s)      3,978,471 bytes
+               2 Dir(s)  29,224,218,624 bytes free
 C:\Users\p\source\repos\github_test001\github_test001\bin\Release>
