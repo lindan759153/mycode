@@ -1,3 +1,11 @@
-C:\Users\Administrator\Desktop>whoami
-win-lkpd46ffhe8\administrator
+C:\Users\Administrator\Desktop>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 5A84-6D4D
+ Directory of C:\Users\Administrator\Desktop
+07/15/2024  10:50 AM    <DIR>          .
+06/26/2024  06:02 PM    <DIR>          ..
+07/15/2024  02:39 AM           551,424 github_test001.exe
+06/26/2024  07:04 PM    <DIR>          tools
+               1 File(s)        551,424 bytes
+               3 Dir(s)  82,578,747,392 bytes free
 C:\Users\Administrator\Desktop>
