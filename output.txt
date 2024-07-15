@@ -1,2 +1,1 @@
-C:\Users\Administrator\Desktop>ping 8.8.8.8
-Pinging 8.8.8.8 with 32 bytes of data:
+C:\Users\p>ping 8.8.8.8
