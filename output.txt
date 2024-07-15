@@ -1,1 +1,1 @@
-C:\Users\p>ping 8.8.8.8
+C:\Users\p>whoami
